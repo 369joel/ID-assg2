@@ -1,3 +1,4 @@
+// Source code from https://github.com/BryceStPierre/google-maps-api-tutorial/blob/master/place-searching/script.js
 var map;
 
 function createMap () {
